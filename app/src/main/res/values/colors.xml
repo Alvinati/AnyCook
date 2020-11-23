@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mimosa">#FFCD58</color>
+    <color name="orange">#FF9636</color>
+    <color name="orange_700">#F57C00</color>
+    <color name="red_orange">#FF5C4D</color>
+    <color name="chartreuse">#DAD870</color>
+    <color name="on_red_orange">#FFACA5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent">#CCFFFFFF</color>
+    <color name="gray_2c">#2C2C2C</color>
+    <color name="gray_3c">#3C3C3C</color>
+    <color name="gray_b4">#B4B4B4</color>
+    <color name="gray_d3">#D3D3D3</color>
+</resources>
